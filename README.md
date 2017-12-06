@@ -21,3 +21,6 @@ Verify the connector's configuration, identify and stop any process that's liste
 Process finished with exit code 1
 
 ````    
+You have another application running on the same port.
+
+Solution: turn off the other application.
