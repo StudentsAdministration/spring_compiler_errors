@@ -5,7 +5,8 @@ Here are a few examples of which errors you might encounter, and how to solve th
 
 **[Please help writing this document adding other posible errors by creating a pull request. See how it is done here](https://github.com/StudentsAdministration/git_pull_request/blob/master/README.md)**    
 
-## 2 applications running at the same port
+## Compilor errors
+### 2 applications running at the same port
 
 ````    
 ***************************
@@ -29,3 +30,5 @@ Process finished with exit code 1
 **Problem:** You have another application running on the same port.
 
 **Solution:** turn off the other application.
+
+## Runtime errors
