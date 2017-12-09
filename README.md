@@ -32,8 +32,7 @@ Process finished with exit code 1
 
 ## Runtime errors
 
-<img src="https://github.com/StudentsAdministration/spring_compiler_runtime_errors/blob/master/img/metatag_error.png" width="400px" />    
+<img src="/img/metatag_error.png" width="400px" />    
 
-**Problem:** 
 **Solution:** Remove the ````<meta charset="UTF-8">```` on line 4 in your html file. Or make sure that you html file is in the xhtml style (not html5) 
 
