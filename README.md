@@ -27,8 +27,13 @@ Verify the connector's configuration, identify and stop any process that's liste
 Process finished with exit code 1
 
 ````    
-**Problem:** You have another application running on the same port.
-
+**Problem:** You have another application running on the same port.    
 **Solution:** turn off the other application.
 
 ## Runtime errors
+
+<img src="https://github.com/StudentsAdministration/spring_compiler_runtime_errors/blob/master/img/metatag_error.png" width="400px" />    
+
+**Problem:** 
+**Solution:** Remove the ````<meta charset="UTF-8">```` on line 4 in your html file. Or make sure that you html file is in the xhtml style (not html5) 
+
