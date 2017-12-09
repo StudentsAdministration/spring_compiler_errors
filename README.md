@@ -3,7 +3,7 @@
 When compiling you at some point will get some errors.    
 Here are a few examples of which errors you might encounter, and how to solve them.
 
-[Please help writing this document by creating a pull request. See how it is done here](https://github.com/StudentsAdministration/git_pull_request/blob/master/README.md) 
+**[Please help writing this document adding other posible errors by creating a pull request. See how it is done here]**(https://github.com/StudentsAdministration/git_pull_request/blob/master/README.md) 
 
 ````    
 ***************************
