@@ -1,5 +1,10 @@
-# spring_compiler_errors
-Possible compiler errors
+# Spring Compiler and runtime errors
+
+When compiling you at some point will get some errors.    
+Here are a few examples of which errors you might encounter, and how to solve them.
+
+Please help writing this document by doing a pull request. See how it is done here: 
+
 
 
 ````    
