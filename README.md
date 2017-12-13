@@ -36,3 +36,6 @@ Process finished with exit code 1
 
 **Solution:** Remove the ````<meta charset="UTF-8">```` on line 4 in your html file. Or make sure that you html file is in the xhtml style (not html5) 
 
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
